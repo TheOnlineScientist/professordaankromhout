@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Publications	</title>
-	<atom:link href="/professordaankromhout/publications/feed/" rel="self" type="application/rss+xml" />
-	<link>/professordaankromhout/</link>
+	<atom:link href="/publications/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Professor of Public Health Research</description>
 	<lastBuildDate>Mon, 18 Mar 2024 11:15:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

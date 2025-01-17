@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Professor Daan Kromhout</title>
-	<atom:link href="/professordaankromhout/feed/" rel="self" type="application/rss+xml" />
-	<link>/professordaankromhout/</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Professor of Public Health Research</description>
 	<lastBuildDate>Wed, 10 Apr 2024 07:09:48 +0000</lastBuildDate>
 	<language>en-US</language>
