@@ -1,0 +1,34 @@
+User-agent: *
+Crawl-delay: 90
+
+User-Agent: *
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /test/
+Disallow: /staging/
+Disallow: /.env
+Disallow: /wallet.dat
+ 
+user-agent: Pinterestbot
+disallow: /
+User-agent: SemrushBot
+Disallow: /
+user-agent: SerendeputyBot
+disallow: /
+user-agent: datagnionbot
+disallow: /
+user-agent: Adsbot
+disallow: /
+user-agent: YandexBot
+disallow: /
+user-agent: AhrefsBot
+disallow: /
+user-agent: SMTBot
+disallow: /
+user-agent: ZoominfoBo
+disallow: /
+user-agent: Python-urllib
+disallow: /
